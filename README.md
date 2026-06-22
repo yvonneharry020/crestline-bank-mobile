@@ -1,6 +1,6 @@
 # Crestline Bank — Mobile Banking App
 
-A premium private banking mobile application built with React Native and Expo. This project showcases production-grade frontend architecture, a refined UI/UX design system, and fluid animations — crafted to the standard of a senior frontend engineer.
+A premium private banking mobile application built with React Native and Expo. This project showcases production-grade frontend architecture, a refined UI/UX design system, and fluid animations crafted to the standard of a senior frontend engineer.
 
 ---
 
